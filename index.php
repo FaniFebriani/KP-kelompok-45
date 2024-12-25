@@ -111,8 +111,8 @@ require 'cek.php';
                                         <td><?=$namabarang;?></td>
                                         <td><?=$deskripsi;?></td>
                                         <td><?=$stock;?></td>
-                                        <td>
-                                              
+                                        
+                                        <td>      
                                      <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#edit<?=$idb;?>">
                                       Edit 
                                     </button>
